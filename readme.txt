@@ -4,29 +4,13 @@ Tags: plugin, activity, community, Facebook
 Requires at least: 2.0
 Tested up to: 2.1
 Stable tag: 4.3
+Support Link: http://plugins.svn.wordpress.org/verisign-domain-hashlink/tags/4.3
 License: GPLv2 or later
 
 Verisign Domain Hashlink™ BETA is a navigation tool that lets you shorten long URLs using your domain name, a hashtag symbol and keyword.
 
 == Description ==
-
-To subscribe to this service, you will need an invitation key. To request an invitation key from Verisign, send an e-mail with your domain name and email address to domainhashlink@verisign.com.
-
-
-Verisign Domain Hashlink lets WordPress site or blog owners easily create memorable URL shortcuts for landing pages or to promote specific content on their site.  With a Domain Hashlink shortcut, your brand identity is still preserved in the URL via your domain name, but website visitors can easily remember and locate specific content on your WordPress site with a # and keyword (e.g. www.Verisigninc.com#domainhashlink).  
-
-Great features that Domain Hashlink provides: 
-
-- Track offline campaigns: Provide statistics on traffic and trends associated with keywords and even map keyword performance to a particular campaign.
-
-- Grow viral and web traffic: Directs site visitors to specific pages, building your website traffic as more visitors can navigate to what they are looking for on your site.  
-
-- Maintain your full domain name to preserve your brand: Create branded, short URLs that preserves your domain name and promote your website, your brand (e.g. www.example.com#keyword)
-
-- Monitor keywords: Reporting tool show most commonly entered keywords terms and provide suggestions for new keywords.
-
-- Promote short branded URLs on social network platforms: Publish keywords to a Facebook or Twitter account, quickly sharing your new, memorable URLs with your social connections to drive traffic to your site.
-
+Verisign Domain Hashlink lets you easily create memorable URL shortcuts for landing pages or promote specific content &  your URL is still preserved.
 == Installation ==
 
 To subscribe to this service, you will need an invitation key.  To request an invitation key from Verisign, send an e-mail with your domain name and email address to <a href="mailto:domainhashlink@verisign.com?subject=VRSN%20WordPress%20Beta%20Request">domainhashlink@verisign.com</a>.
