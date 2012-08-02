@@ -1,0 +1,95 @@
+div.error {
+	clear: both;
+	color: #000;
+	vertical-align: middle;
+	padding: 14px;
+	background-color: #ffffcc;
+	border: 2px solid #cc3300;
+	font-weight: bold;
+}
+div.sub_error {
+    font-weight: bold;
+    color: maroon;
+    padding: 3px;
+    display: inline;
+    margin-left: 5px;
+}
+th.th_error {
+    padding: 0px;
+    text-align: right;
+    font-size: 11px;
+}
+div.notice {
+	background-color: #ffcc00;
+	color: #000;
+	display: block;
+	font-family: Courier, monospace;
+	font-size: 120%;
+	line-height: 140%;
+	padding: 14px;
+}
+div.success {
+	clear: both;
+	color: black;
+	vertical-align: middle;
+	padding: 14px;
+	background-color: #e0ffc6;
+	border: 2px solid #54bc00;
+	font-weight: bold;
+}
+table.form-table tr th {
+    text-align: right;
+}
+h2 {
+    border-bottom: 1px solid gray;
+}
+h3 {
+    font-weight: normal;
+    font-size: 16px;
+    padding: 12px;
+    margin-top: 0px;
+    color: black;
+}
+table#dhlregister tr td, table#dhlregister tr th {
+    padding: 5px;
+    font-size: 11px;
+}
+table#dhlregister tr td.space {
+    padding: 0px;
+    height: 12px;
+    font-size: 12px;
+}
+table#dhlregister input {
+    border: 1px solid #abadb3;
+    -moz-border-radius: 4px;
+    -khtml-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    font-size: 11px;
+}
+table#dhlregister input.input_error {
+    background-color: #ffe7e7;
+}
+table#dhlregister input.suggestion {
+    color: grey;
+}
+div.wrap p {
+    font-size: 11px;
+}
+div.linkNav a, div.linkNav span {
+    font-size: 11px;
+}
+div.footer {
+    padding: 3px;
+    background-color: #fff4d7;
+}
+input.linkinp {
+    width: 250px;
+}
+div.head span {
+    position:relative;
+}
+div.head span.lkhead {
+    display: inline-block;
+    width: 134px;
+}
