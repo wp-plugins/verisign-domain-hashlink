@@ -8,7 +8,7 @@ Tested up to: 3.3
 Version: 0.2.0
 Stable tag: 1.0.0
 
-Verisign Domain Hashlink™ BETA is a navigation tool that lets you shorten long URLs using your domain name, a hashtag symbol and keyword.
+Verisign Domain Hashlink BETA is a navigation tool that lets you shorten long URLs using your domain name, a hashtag symbol and keyword.
 
 == Description ==
 Verisign Domain Hashlink lets WordPress site owners easily create memorable and branded URL shortcuts for landing pages or to promote specific content on their site.  With a Domain Hashlink shortcut, your brand identity is still preserved in the URL via your domain name, but website visitors can easily remember and locate specific content on your WordPress site with a # and keyword (e.g. www.Verisigninc.com#domainhashlink).  
@@ -45,7 +45,7 @@ This plugin follows the [standard WordPress installation method][]:
 Verisign Domain Hashlink is a vanity URL that lets you create shorter, more memorable URLs. It's designed to help users locate precise content on your website. It's a brand new kind of website navigational tool. It's also a handy shortcut to get someone exactly where you want them to be online: with a short, intuitive and easily remembered keyword or phrase preceded by a #, or hashtag symbol.
 
 == Screenshots ==
-Verisign Domain Hashlink™ BETA is a navigation tool that lets you shorten long URLs using your domain name, a hashtag symbol and keyword.
+Verisign Domain Hashlink BETA is a navigation tool that lets you shorten long URLs using your domain name, a hashtag symbol and keyword.
 
 == Changelog ==
 = version 1.0.5 =
