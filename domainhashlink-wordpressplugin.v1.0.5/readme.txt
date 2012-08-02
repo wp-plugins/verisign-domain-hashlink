@@ -45,7 +45,6 @@ This plugin follows the [standard WordPress installation method][]:
 Verisign Domain Hashlink is a vanity URL that lets you create shorter, more memorable URLs. It's designed to help users locate precise content on your website. It's a brand new kind of website navigational tool. It's also a handy shortcut to get someone exactly where you want them to be online: with a short, intuitive and easily remembered keyword or phrase preceded by a #, or hashtag symbol.
 
 == Screenshots ==
-1. Screenshot Domain Hashlink Admin Page
 
 == Changelog ==
 = version 1.0.5 =
