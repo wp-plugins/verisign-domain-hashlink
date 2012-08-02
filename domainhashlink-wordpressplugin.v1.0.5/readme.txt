@@ -1,7 +1,7 @@
-=== Domain Hashlink ===
+=== Verisign Domain Hashlink ===
 Author: Verisign, Inc.
-Contributors: Phillihp Harmon
-Tags: domain hash link, domain, hashlink
+Contributors: Phillip Harmon
+Tags: verisign domain hashlink, domain, hashlink
 Plugin link: http://www.domainhashlink.com
 Requires at least: 2.6
 Tested up to: 3.3
