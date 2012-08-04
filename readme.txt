@@ -6,7 +6,7 @@ Plugin link: http://www.domainhashlink.com
 Requires at least: 2.6
 Tested up to: 3.3
 Version: 0.2.0
-Stable tag: 1.0.0
+Stable tag: 1.0
 
 Verisign Domain Hashlink BETA is a navigation tool that lets you shorten long URLs using your domain name, a hashtag symbol and keyword.
 
