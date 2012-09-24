@@ -4,7 +4,7 @@ Contributors: Phillip Harmon
 Tags: verisign domain hashlink, domain, hashlink
 Plugin link: http://www.domainhashlink.com
 Requires at least: 2.6
-Tested up to: 3.3
+Tested up to: 3.4.0.1
 Version: 1.0
 Stable tag: 1.0
 
@@ -32,7 +32,7 @@ To subscribe to this service, you will need an invitation key. To request an inv
 This plugin follows the [standard WordPress installation method][]:
 
 1. Upload the 'domain-hashlink.zip' file to the `/wp-content/plugins/` directory using wget, curl of ftp.
-2. 'unzip' the 'domain-hashlink.zip' which will create the folder to the directory `/wp-content/plugins/dhl_v0.9.3`
+2. 'unzip' the 'domain-hashlink.zip' which will create the folder to the directory `/wp-content/plugins/dhl_v1.0.5`
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Configure the plugin through 'Domain Hashlink' submenu in the the 'Settings' section of the Wordpress admin menu
 5. Add your DHL Invite Key.
